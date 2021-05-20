@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf5fd1bdd946e9b509c38fb4ee5c907f",
+    "revision": "ab92d441541ec26c7cb95da2c7887e00",
     "url": "/emoji-pedia-dictinary/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/emoji-pedia-dictinary/static/js/2.55870ca7.chunk.js"
   },
   {
-    "revision": "91bc0a2d459cff83e3f9",
-    "url": "/emoji-pedia-dictinary/static/js/main.cbff3824.chunk.js"
+    "revision": "bb604cb78068c0a3b8dd",
+    "url": "/emoji-pedia-dictinary/static/js/main.e2cbbe48.chunk.js"
   },
   {
     "revision": "1aa892d83bf1a32e84ae",
