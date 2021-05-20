@@ -20,7 +20,7 @@ function App() {
     <div>
       <h1>
         <span>emojipedia</span>
-      </h1>
+      </h1> 
 
       <dl className="dictionary">
         {emojipedia.map(createEmojis)}
